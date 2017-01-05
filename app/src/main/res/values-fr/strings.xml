@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Just Java</string>
+    <string name="thank_you">Merci!</string>
+    <string name="toppings">Ingredients</string>
+    <string name="chocolate">Chocolat</string>
+    <string name="name">Nom</string>
+    <string name="order">Commander</string>
+    <string name="quantity">Quantite</string>
+    <string name="toast_decrement">Vous ne pouvez pas commander moins d\'un cafe</string>
+    <string name="toast_increment">Vous ne pouvez pas commander plus de cent cafes</string>
+    <string name="total">Total: $</string>
+    <string name="whipped_cream">Creme fouettee</string>
+    <string name="order_summary_name">Nom: <xliff:g id="name" example="Thomas">%s</xliff:g></string>
+</resources>

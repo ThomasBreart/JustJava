@@ -1,0 +1,36 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Just Java</string>
+
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Thomas">%s</xliff:g></string>
+
+    <!-- Thank you message for the order summary. [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank you!</string>
+
+    <string name="total">Total: $</string>
+
+    <!-- Hint message when user try to go over 100 coffees -->
+    <string name="toast_increment">You cannot have more than 100 coffees</string>
+
+    <!-- Hint message when user try to go under 1 coffee -->
+    <string name="toast_decrement">You cannot have less than 1 coffee</string>
+
+
+
+    <!-- Hint message for the name [CHAR LIMIT=20] -->
+    <string name="name">Name</string>
+
+    <!-- Header text for the list of toppings [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+
+    <!-- whipped cream topping [CHAR LIMIT=20] -->
+    <string name="whipped_cream">Whipped cream</string>
+
+    <!-- chocolate topping [CHAR LIMIT=20] -->
+    <string name="chocolate">Chocolate</string>
+
+    <!-- Header text for the layout of quantity [CHAR LIMIT=20] -->
+    <string name="quantity">Quantity</string>
+
+    <!-- text for the order button [CHAR LIMIT=20] -->
+    <string name="order">Order</string>
+</resources>
